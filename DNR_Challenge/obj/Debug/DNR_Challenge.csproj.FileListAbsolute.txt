@@ -1,0 +1,10 @@
+C:\Users\jholt\source\repos\DNR_Challenge\DNR_Challenge\bin\Debug\DNR_Challenge.exe.config
+C:\Users\jholt\source\repos\DNR_Challenge\DNR_Challenge\bin\Debug\DNR_Challenge.exe
+C:\Users\jholt\source\repos\DNR_Challenge\DNR_Challenge\bin\Debug\DNR_Challenge.pdb
+C:\Users\jholt\source\repos\DNR_Challenge\DNR_Challenge\obj\Debug\DNR_Challenge.csprojAssemblyReference.cache
+C:\Users\jholt\source\repos\DNR_Challenge\DNR_Challenge\obj\Debug\DNR_Challenge.Form1.resources
+C:\Users\jholt\source\repos\DNR_Challenge\DNR_Challenge\obj\Debug\DNR_Challenge.Properties.Resources.resources
+C:\Users\jholt\source\repos\DNR_Challenge\DNR_Challenge\obj\Debug\DNR_Challenge.csproj.GenerateResource.cache
+C:\Users\jholt\source\repos\DNR_Challenge\DNR_Challenge\obj\Debug\DNR_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\jholt\source\repos\DNR_Challenge\DNR_Challenge\obj\Debug\DNR_Challenge.exe
+C:\Users\jholt\source\repos\DNR_Challenge\DNR_Challenge\obj\Debug\DNR_Challenge.pdb
